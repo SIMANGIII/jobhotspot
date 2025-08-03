@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.deb
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+pkg/
+src/
+>>>>>>> 0a7664c4d2c42ab2271f66ce4cddabc7c2519eb9
